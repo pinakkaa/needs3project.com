@@ -347,18 +347,18 @@ p {
     padding: 0.6rem 2.3rem;
     margin-top: 2rem;
     letter-spacing: 1px;
-    border: 1px solid #9e1633;
+    border: 1px solid #BB9765;
 }
 #otp_modal .btn:hover {
     background-color: #fff;
-    color: #9e1633;
+    color: #BB9765;
 }
 #otp_modal p {
-    color: #9e1633;
+    color: #BB9765;
 }
 #otp_modal a {
     display: inline-block;
-    color: #9e1633;
+    color: #BB9765;
     font-family: "corporate_sregular", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.5rem;
     line-height: 1.6;
@@ -1854,7 +1854,7 @@ font-family: "corporate_sregular", Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
     font-family: "corporatesdemi", Verdana, Geneva, Tahoma, sans-serif;
     color: #fff;
-    background-color: transparent;
+    background-color: #bb9765;
     border-radius: 0;
     border: 0;
     outline: 0;
@@ -5232,7 +5232,7 @@ svg.svg-inline-icon path {
     padding: 0.6rem 2.3rem;
     margin-top: 2rem;
     letter-spacing: 1px;
-    border: 1px solid #9e1633;
+    border: 1px solid #BB9765;
 }
 #configurationModal .form-check,
 #mediaKitModal .form-check {
@@ -5241,8 +5241,8 @@ svg.svg-inline-icon path {
 #configurationModal .contact form .btn:hover,
 #mediaKitModal .contact form .btn:hover {
     background-color: #fff;
-    color: #9e1633;
-    border: 1px solid #9e1633;
+    color: #BB9765;
+    border: 1px solid #BB9765;
 }
 .seasons {
     position: relative;

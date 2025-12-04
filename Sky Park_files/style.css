@@ -600,7 +600,7 @@ nav a:hover {
 
 .grey {
     color: #4d4e50;
-    background-color: #fff !important;
+    /* background-color: #fff !important; */
 }
 
 .amenities {
@@ -2250,7 +2250,7 @@ margin-bottom: 23px;
 
 .conf-back {
     padding: 55px 0 90px;
-    background-color: rgba(0, 0, 0, 0.4);
+    /* background-color: rgba(0, 0, 0, 0.4); */
 }
 
 #overview {
@@ -5474,7 +5474,7 @@ footer i {
 
 .all-overview {
     padding: 3rem 0rem;
-    background: #f5ebe1;
+    /* background: #f5ebe1; */
 }
 
 #masterplan-2 {
