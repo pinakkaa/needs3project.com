@@ -131,7 +131,7 @@ p {
     display: none;
 }
 .disclaimer.show {
-    display: block;
+    display: none;
 }
 #walkthrough__modal {
     z-index: 9999999999;
