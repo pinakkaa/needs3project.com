@@ -18,7 +18,7 @@
     align-items: center;
 }
 .mapaddress__block h4{
-    color: #bb9765;
+    color: #0F4E8C;
 }
 .mapaddress__block .sub-title img{
     margin-right: .5rem;
@@ -59,7 +59,7 @@
 }
 .emails__inner__block__top{
     font-family: "corporate_sbold", Verdana, Geneva, Tahoma, sans-serif;
-    background: #bb9765;
+    background: #0F4E8C;
     margin-bottom: 0;
     text-align: center;
     padding: 0.7rem 1rem;
@@ -75,7 +75,7 @@
 .emails__inner__block__bottom{
     min-height: 8rem;
     text-align: center;
-    border: 1px solid #bb9765;
+    border: 1px solid #0F4E8C;
     display: flex;
     justify-content: center;
     
@@ -123,7 +123,7 @@
     left: 0;
     height: 22px;
     width: 22px;
-    background-color: #BB9765;
+    background-color: #0F4E8C;
     border-radius: 5px;
     border: 2px solid #fff;
 }
