@@ -1306,7 +1306,7 @@
             }
     
             .premium-dot.active {
-                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                background: linear-gradient(135deg, #000000 0%, #000000 100%);
                 width: 35px;
                 border-radius: 6px;
             }
@@ -1396,6 +1396,30 @@
                 .premium-gallery-image {
                     height: 220px;
                 }
+            }
+            .first-slide{
+                display: flex;
+                justify-content: end;
+            }
+            .second-slider{
+                display: flex;
+                justify-content: end;
+                margin-left: -10rem;
+            }
+            .first-inner-slider{
+                width: 80%;
+            }
+            .second-inner-slider{
+                width: 80%;
+            }
+            .fa-chevron-right:before{
+                font-size: 3rem;
+            }
+            .fa-chevron-left:before{
+                font-size: 3rem;
+            }
+            .carousel-control.left{
+                left: 16rem;
             }
         </style>
 
@@ -1968,9 +1992,9 @@
                         <img class="ameimg" src="images/ame/1.webp" alt="banner">
                         <p>Artist’s Impression</p>
                     </div> -->
-                    <div id="carousel-example-generic-ame1" class="carousel slide" data-ride="carousel">
+                    <div id="carousel-example-generic-ame1" class="carousel slide first-slide" data-ride="carousel">
 
-                        <div class="carousel-inner" role="listbox">
+                        <div class="carousel-inner first-inner-slider" role="listbox">
                             <div class="item active left">
                                 <img class="d-banner" src="./Sky Park_files/terrace amenities.webp" alt="banner" style="width: 100%; margin-top:-11px !important;">
                                 <img class="m-banner" src="./Sky Park_files/terrace amenities.webp" alt="banner" style="width: 100%">
@@ -2008,9 +2032,9 @@
                         <img class="ameimg" src="images/ame/2.webp" alt="banner">
                         <p>Artist’s Impression</p>
                     </div> -->
-                    <div id="carousel-example-generic-ame2" class="carousel slide" data-ride="carousel">
+                    <div id="carousel-example-generic-ame2" class="carousel slide second-slider" data-ride="carousel">
 
-                        <div class="carousel-inner" role="listbox">
+                        <div class="carousel-inner second-inner-slider" role="listbox">
                             <div class="item next left">
                                 <img class="d-banner" src="./Sky Park_files/44.webp" alt="banner" style="width: 100%; margin-top:-11px !important;">
 
